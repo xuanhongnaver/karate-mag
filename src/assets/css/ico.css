@@ -1,0 +1,140 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf') format('truetype'),
+    url('../fonts/icomoon.woff') format('woff'),
+    url('../fonts/icomoon.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-camera:before {
+  content: "\e909";
+}
+.icon-trash:before {
+  content: "\e90a";
+}
+.icon-shopping-cart:before {
+  content: "\e90b";
+}
+.icon-attach_money:before {
+  content: "\e90c";
+}
+.icon-phone-circle:before {
+  content: "\e90d";
+}
+.icon-icons8-telegram-app:before {
+  content: "\e91b";
+}
+.icon-tiktok-brands:before {
+  content: "\e907";
+}
+.icon-bars-solid:before {
+  content: "\e903";
+}
+.icon-share-solid:before {
+  content: "\e900";
+}
+.icon-message-solid:before {
+  content: "\e901";
+}
+.icon-thumbs-up-solid:before {
+  content: "\e902";
+}
+.icon-comments-regular:before {
+  content: "\e904";
+}
+.icon-user-regular:before {
+  content: "\e905";
+}
+.icon-angle-right-solid:before {
+  content: "\e906";
+}
+.icon-caret-up-solid:before {
+  content: "\e90e";
+}
+.icon-caret-right-solid:before {
+  content: "\e908";
+}
+.icon-caret-left-solid:before {
+  content: "\e90f";
+}
+.icon-caret-down-solid:before {
+  content: "\e910";
+}
+.icon-arrow-right2:before {
+  content: "\ea3c";
+}
+.icon-arrow-down2:before {
+  content: "\ea3e";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
+.icon-home:before {
+  content: "\e911";
+}
+.icon-redo2:before {
+  content: "\e968";
+}
+.icon-bubble:before {
+  content: "\e96b";
+}
+.icon-download3:before {
+  content: "\e9c7";
+}
+.icon-bookmark:before {
+  content: "\e9d2";
+}
+.icon-contrast:before {
+  content: "\e9d5";
+}
+.icon-enter:before {
+  content: "\ea13";
+}
+.icon-play3:before {
+  content: "\ea1c";
+}
+.icon-pause2:before {
+  content: "\ea1d";
+}
+.icon-loop2:before {
+  content: "\ea2e";
+}
+.icon-shuffle:before {
+  content: "\ea30";
+}
+.icon-youtube2:before {
+  content: "\ea9e";
+}
+.icon-behance:before {
+  content: "\eaa8";
+}
+.icon-github:before {
+  content: "\eab0";
+}
+.icon-skype:before {
+  content: "\eac5";
+}
